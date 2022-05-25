@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">Estudante e criador de conteúdo sobre dados</h3>
 
-<!--
-**GabrielSQL2022/GabrielSQL2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando no momento em **um projeto sobre banco de dados de uma livraria**
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **SQL Server, Oracle Database e Cloud**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 Estou disponível para ajudar sobre **querys e conceitos sobre banco de dados relacional e NoSQL.**
+
+- 👨‍💻 Todos os meus antigos estão disponíveis no Linkedin [https://www.linkedin.com/today/author/gabriel-l-a-neiva?trk=pulse-article_more-articles](https://www.linkedin.com/today/author/gabriel-l-a-neiva?trk=pulse-article_more-articles)
+
+- 📝 Escrevo artigos sobre [DDL, DML, DQL, DTL e DCL](DDL, DML, DQL, DTL e DCL)
+
+- 💬 Me chame para **assuntos sobre bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**
+
+- 📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me me adicione no Linkedin**
+
+- 📄 Conheça minhas experiências no Linkedin [https://www.linkedin.com/in/gabriel-l-a-neiva/](https://www.linkedin.com/in/gabriel-l-a-neiva/)
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriel-l-a-neiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-l-a-neiva?trk=profile-badge">Gabriel Leite Angelo Neiva</a></div>
+              
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
