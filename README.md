@@ -15,7 +15,7 @@
 
 - 📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me me adicione no Linkedin**
 
-- 📄 Conheça minhas experiências no Linkedin [https://www.linkedin.com/in/gabriel-l-a-neiva/](https://www.linkedin.com/in/gabriel-l-a-neiva/)
+- 📄 Conheça minhas experiências no Linkedin [Gabriel Leite Angelo Neiva](https://www.linkedin.com/in/gabriel-l-a-neiva/)
 
 
 <h3 align="left">Connect with me:</h3>
