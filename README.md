@@ -7,7 +7,7 @@
 
 - 🤝 Estou disponível para ajudar sobre **querys e conceitos sobre banco de dados relacional e NoSQL.**
 
-- 👨‍💻 Todos os meus antigos estão disponíveis no Linkedin <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gabriel-l-a-neiva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-l-a-neiva?trk=profile-badge">Gabriel Leite Angelo Neiva</a></div>
+- 👨‍💻 Todos os meus antigos estão disponíveis clicando [aqui](https://www.linkedin.com/today/author/gabriel-l-a-neiva?trk=pulse-article_more-articles)
 
 - 📝 Escrevo artigos sobre [DDL, DML, DQL, DTL e DCL](DDL, DML, DQL, DTL e DCL)
 
