@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Estudante e criador de conteúdo sobre dados</h3>
+<h1 align="center">Olá 👋, eu sou Gabriel</h1>
+<h2 align="center">Estudando e criando cada vez mais conteúdo sobre Banco de Dados</h2>
 
 - 🔭 Estou trabalhando no momento em **um projeto sobre banco de dados de uma livraria**
 
