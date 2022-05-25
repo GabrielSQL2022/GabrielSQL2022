@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus antigos estão disponíveis clicando [aqui](https://www.linkedin.com/today/author/gabriel-l-a-neiva?trk=pulse-article_more-articles)
 
-- 📝 Escrevo artigos sobre [DDL, DML, DQL, DTL e DCL](DDL, DML, DQL, DTL e DCL)
+- 📝 Escrevo artigos sobre DDL, DML, DQL, DTL e DCL
 
 - 💬 Me chame para **assuntos sobre bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**
 
