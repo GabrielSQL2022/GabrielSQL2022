@@ -21,7 +21,7 @@ Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conte
 
 📝 Escrevo artigos sobre **DDL, DML e DCL**;
 
-💬 Pode me procurar sobre **assuntos sobre bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**;
+💬 Pode me procurar sobre assuntos de **bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**;
 
 📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin, link abaixo**;
 
