@@ -17,6 +17,7 @@ Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conte
   <li><a href="https://www.linkedin.com/pulse/realizando-consultas-select-b%C3%A1sicas-descomplica-leite-angelo-neiva-1f/">Realizando consultas (SELECT) básicas</a></li>
   <li><a href="https://www.linkedin.com/pulse/utilizando-operadores-de-compara%C3%A7%C3%A3o-l%C3%B3gicos-e-em-sql-gabriel/">Utilizando Operadores de Comparação, Lógicos e Aritméticos em consultas (SELECT) SQL</a></li>
   <li><a href="https://www.linkedin.com/pulse/o-que-%C3%A9-json-e-como-manipula-lo-em-banco-de-dados-gabriel/">O que é Json e como manipula-lo em Banco de Dados Relacional</a></li>
+  <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 </ul>
 
 📝 Escrevo artigos sobre **DDL, DML e DCL**;
