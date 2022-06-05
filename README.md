@@ -2,13 +2,13 @@
 <h4 align="lefr">Atualmente sou analista de suporte e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
 Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin.</h4>
 
-🔭 Estou trabalhando no momento em **um projeto para a criação de um banco de dados de uma livraria, passando desde o Diagrama Entidade-Relacionamento até o Diagrama de Banco de Dados mostrando as cardinalidades e as criaçãoes e inserções das tabelas. Também mostrarei exemplos de consultas dos dados inseridos**;
+🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, passando desde oa Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas dos dados inseridos.**;
 
 🌱 Atualmente estou aprendendo **SQL Server, Oracle Database e Cloud com NoSQL**;
 
 🤝 Estou disponível para ajudar sobre **querys e conceitos gerais sobre Banco de Dados Relacional e NoSQL**;
 
-👨‍💻 Todos os meus antigos do Linkedin estão disponíveis logo abaixo:
+👨‍💻 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
   <ul>
   <li><a href="https://www.linkedin.com/pulse/como-criar-uma-tabela-simples-em-bdr-descomplica-leite-angelo-neiva/">Como criar uma tabela simples em BDR</a></li>
