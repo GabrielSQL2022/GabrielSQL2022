@@ -1,8 +1,11 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
 <h4 align="lefr">Atualmente sou analista de suporte e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
-Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin.</h4>
+Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. E possuo conhecimento
+também em NoSQL e manipulação de JSON no MongoDB.</h4>
 
-🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, passando desde oa Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas dos dados inseridos.**;
+🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, passando desde oa Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos.**;
+
+**Acompanhe a evolução da Universo dos Livros** -> [Universo dos Livros](https://gabrielsql2022.github.io/)
 
 🌱 Atualmente estou aprendendo **SQL Server, Oracle Database e Cloud com NoSQL**;
 
@@ -20,7 +23,7 @@ Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conte
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 </ul>
 
-📝 Escrevo artigos sobre **DDL, DML e DCL**;
+📝 Escrevo artigos sobre **DDL, DML, DQL, DTL e DCL**;
 
 💬 Pode me procurar sobre assuntos de **bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**;
 
