@@ -3,7 +3,7 @@
 Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. E possuo conhecimento
 também em NoSQL e manipulação de JSON no MongoDB.</h4>
 
-🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, passando desde oa Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos.**;
+🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
 **Acompanhe a evolução da Universo dos Livros** -> [Universo dos Livros](https://gabrielsql2022.github.io/)
 
