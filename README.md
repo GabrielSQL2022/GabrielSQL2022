@@ -1,15 +1,13 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
 <h4 align="lefr">Atualmente sou analista de suporte e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
-Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. E possuo conhecimento
+Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. Possuo conhecimento
 também em NoSQL e manipulação de JSON no MongoDB.</h4>
 
-🔭 Estou trabalhando no momento em **um projeto para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
+🔭 Estou trabalhando no momento em **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
 **Acompanhe a evolução da Universo dos Livros** -> [Universo dos Livros](https://gabrielsql2022.github.io/)
 
-🌱 Atualmente estou aprendendo **SQL Server, Oracle Database e Cloud com NoSQL**;
-
-🤝 Estou disponível para ajudar sobre **querys e conceitos gerais sobre Banco de Dados Relacional e NoSQL**;
+🌱 Atualmente estou aprendendo **T-SQL e PL/SQL**;
 
 👨‍💻 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
@@ -22,8 +20,6 @@ também em NoSQL e manipulação de JSON no MongoDB.</h4>
   <li><a href="https://www.linkedin.com/pulse/o-que-%C3%A9-json-e-como-manipula-lo-em-banco-de-dados-gabriel/">O que é Json e como manipula-lo em Banco de Dados Relacional</a></li>
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 </ul>
-
-📝 Escrevo artigos sobre **DDL, DML, DQL, DTL e DCL**;
 
 💬 Pode me procurar sobre assuntos de **bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**;
 
