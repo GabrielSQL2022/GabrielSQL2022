@@ -1,5 +1,5 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
-<h4 align="lefr">Atualmente sou analista de suporte e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
+<h4 align="lefr">Atualmente sou analista de suporte a sistemas e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
 Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. Possuo conhecimento
 também em NoSQL e manipulação de JSON no MongoDB.</h4>
 
