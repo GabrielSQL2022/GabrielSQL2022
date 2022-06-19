@@ -1,13 +1,15 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
-<h4 align="lefr">Atualmente sou analista de suporte a sistemas e possuo experiência com Banco de Dados Relacional, principalmente em DDL, DML, DQL, DTL e DCL.
-Estou estudando sobre a T-SQL, SQL Server e SQL for Oracle, além de criar conteúdos (dicas e artigos) sobre Banco de Dados no Linkedin. Possuo conhecimento
-também em NoSQL e manipulação de JSON no MongoDB.</h4>
+<h4 align="lefr">Atualmente sou analista de suporte a sistemas e possuo experiência com Banco de Dados Relacional, principalmente em comandos DDL, DML, e DCL. 
+
+Também possuo conhecimentos em Modelagem de Dados, JOIN, Funções, Views, Procedures, User Functions, Backup, Restore, Permissões por usuário, Banco de Dados NoSQL com MongoDB e manipulação de XML e JSON.
+
+Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas e artigos) no Linkedin.</h4>
 
 🔭 Estou trabalhando no momento em **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
 **Acompanhe a evolução da Universo dos Livros** -> [Universo dos Livros](https://gabrielsql2022.github.io/)
 
-🌱 Atualmente estou aprendendo **T-SQL e PL/SQL**;
+🌱 Atualmente estou aprendendo **T-SQL, PL/SQL e Power BI**;
 
 👨‍💻 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
@@ -21,12 +23,7 @@ também em NoSQL e manipulação de JSON no MongoDB.</h4>
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 </ul>
 
-💬 Pode me procurar sobre assuntos de **bancos de dados, criação de artigos gerais e qualquer apoio para crescimento profissional**;
-
-📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin, link abaixo**;
-
-📄 Conheça minhas experiências no Linkedin [Gabriel Leite Angelo Neiva](https://www.linkedin.com/in/gabriel-l-a-neiva/);
-
+📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin [clicando aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
 
 <h3 align="right">Linguagens e Ferramentas:</h3>
 
