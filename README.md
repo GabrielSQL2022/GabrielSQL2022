@@ -23,7 +23,7 @@ Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas e 
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 </ul>
 
-📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin [clicando aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
+📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin clicando [aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
 
 <h3 align="right">Linguagens e Ferramentas:</h3>
 
