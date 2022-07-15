@@ -7,9 +7,7 @@ Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas e 
 
 🔭 Estou trabalhando no momento em **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
-**Acompanhe a evolução da Universo dos Livros** -> [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
-
-🌱 Atualmente estou aprendendo **T-SQL, PL/SQL e Power BI**;
+**Acompanhe a evolução do projeto** -> [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
 
 👨‍💻 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
