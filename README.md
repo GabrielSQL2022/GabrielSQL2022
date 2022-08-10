@@ -1,15 +1,15 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
 <h4 align="lefr">Atualmente sou analista de suporte a sistemas e possuo experiência com Banco de Dados Relacional, principalmente em comandos DDL, DML, e DCL. 
 
-Também possuo conhecimentos em Modelagem de Dados, JOIN, Funções, Views, Procedures, User Functions, Backup, Restore, Permissões por usuário, Banco de Dados NoSQL com MongoDB e manipulação de XML e JSON.
+Também possuo conhecimentos em Modelagem de Dados, JOIN, Funções, Views, Procedures, User Functions, Backup, Restore, Privilégio de usuário, Banco de Dados NoSQL com MongoDB e manipulação de XML e JSON.
 
-Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas e artigos) no Linkedin.</h4>
+Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas, documentos e artigos) no Linkedin.</h4>
 
 🔭 Estou trabalhando no momento em **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
 **Acompanhe a evolução do projeto** -> [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
 
-👨‍💻 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
+Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
   <ul>
   <li><a href="https://www.linkedin.com/pulse/como-criar-uma-tabela-simples-em-bdr-descomplica-leite-angelo-neiva/">Como criar uma tabela simples em BDR</a></li>
@@ -21,6 +21,10 @@ Gosto de compartilhar o que aprendo sobre Banco de Dados em conteúdos (dicas e 
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 <li><a href="https://www.linkedin.com/pulse/o-que-%C3%A9-chave-prim%C3%A1ria-estrangeira-e-como-utilizar-gabriel/">O que é Chave Primária, Chave Estrangeira e como utilizar JOIN e suas variações</a></li>
 </ul>
+
+E aqui estão os documentos com dicas, também disponíveis no Linkedin:
+
+- [Funções de Datas - Oracle PL/SQL](https://www.linkedin.com/posts/gabriel-l-a-neiva_fun%C3%A7%C3%B5es-de-data-plsql-gabriel-leite-activity-6963092579252908032-zORc?utm_source=linkedin_share&utm_medium=android_app)
 
 📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin clicando [aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
 
