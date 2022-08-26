@@ -20,6 +20,7 @@ Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
   <li><a href="https://www.linkedin.com/pulse/o-que-%C3%A9-json-e-como-manipula-lo-em-banco-de-dados-gabriel/">O que é Json e como manipula-lo em Banco de Dados Relacional</a></li>
   <li><a href="https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva/">Como utilizar os Operadores LIKE e NOT LIKE</a></li>
 <li><a href="https://www.linkedin.com/pulse/o-que-%C3%A9-chave-prim%C3%A1ria-estrangeira-e-como-utilizar-gabriel/">O que é Chave Primária, Chave Estrangeira e como utilizar JOIN e suas variações</a></li>
+<li><a href="https://www.linkedin.com/pulse/privil%25C3%25A9gios-de-usu%25C3%25A1rios-em-banco-dados-oracle-leite-angelo-neiva/?published=t&trackingId=m1myK2EOS%2Fis%2BzKHi7cOFw%3D%3D">Privilégios de Usuários em Banco de Dados Oracle</a></li>
 </ul>
 
 E aqui estão os documentos com dicas, também disponíveis no Linkedin:
