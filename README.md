@@ -1,10 +1,12 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
  
-👨 Estudando Banco de Dados e me aprofundando nesta área. Possuo conhecimentos em Modelagem de Dados e instruções nas linguagens T-SQL e PL/SQL.
+🧑‍💻 Estudando e me aprofundando em SQL, NoSQL, ETL, Power BI e Python.
 
 🔭 Criando **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
 
 **Acompanhe a evolução do projeto** -> [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
+
+📖 Cursando Pós-Graduação em Administração de Banco de Dados e Graduado em Gestão de Tecnologia da Informação.
 
 🌱 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
@@ -22,18 +24,8 @@ E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
 - [Funções de Datas - Oracle PL/SQL](https://www.linkedin.com/posts/gabriel-l-a-neiva_fun%C3%A7%C3%B5es-de-data-plsql-gabriel-leite-activity-6963092579252908032-zORc?utm_source=linkedin_share&utm_medium=android_app)
 
-📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin clicando [aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/gabriel-l-a-neiva/))
 
-<h3 align="right">Linguagens e Ferramentas:</h3>
-
-<p align="right"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-</p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-l-a-neiva/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabrielneiva26/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gabrielleite.26@gmail.com)
