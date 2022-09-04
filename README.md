@@ -24,6 +24,8 @@ E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
 📫 Me encontre pelo e-mail **gabrielleite.26@gmail.com ou me adicione no Linkedin clicando [aqui](https://www.linkedin.com/in/gabriel-l-a-neiva/)**;
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/gabriel-l-a-neiva/))
+
 <h3 align="right">Linguagens e Ferramentas:</h3>
 
 <p align="right"> 
