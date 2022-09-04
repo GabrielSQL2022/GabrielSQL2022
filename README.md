@@ -2,11 +2,23 @@
  
 🧑‍💻 Estudando e me aprofundando em SQL, NoSQL, ETL, Power BI e Python.
 
-🔭 Criando **um projeto pessoal para a criação do banco de dados de uma livraria, mostrando desde a Análise de Requisitos até a criação dos Modelos Conceitual, Lógico e Físico. Também mostrarei exemplos de consultas, funções, views e demais conceitos nos dados inseridos**.
+🔭 Criando um projeto de banco de dados de uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
 
-**Acompanhe a evolução do projeto** -> [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
+Acompanhe a evolução do projeto:  
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/GabrielSQL2022/projeto-livraria)
 
 📖 Cursando Pós-Graduação em Administração de Banco de Dados e Graduado em Gestão de Tecnologia da Informação.
+
+💼 Analista de Suporte II na TOTVS
+
+🎯 Minhas Skills
+
+<img src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/><img src ="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> <img src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
 
 🌱 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
@@ -24,7 +36,7 @@ E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
 - [Funções de Datas - Oracle PL/SQL](https://www.linkedin.com/posts/gabriel-l-a-neiva_fun%C3%A7%C3%B5es-de-data-plsql-gabriel-leite-activity-6963092579252908032-zORc?utm_source=linkedin_share&utm_medium=android_app)
 
-
+📧 Meus contatos
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-l-a-neiva/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabrielneiva26/)
