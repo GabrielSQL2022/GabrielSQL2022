@@ -35,6 +35,7 @@ Acompanhe a evolução do projeto:
 E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
 - [Funções de Datas - Oracle PL/SQL](https://www.linkedin.com/posts/gabriel-l-a-neiva_fun%C3%A7%C3%B5es-de-data-plsql-gabriel-leite-activity-6963092579252908032-zORc?utm_source=linkedin_share&utm_medium=android_app)
+ - [O que é View e como criá-la](https://www.linkedin.com/posts/gabriel-l-a-neiva_o-que-%C3%A9-uma-view-e-como-cri%C3%A1-la-activity-6974048621788827648-Lz9e?utm_source=share&utm_medium=member_desktop)
 
 📧 Meus contatos
 
