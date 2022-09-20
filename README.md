@@ -4,9 +4,7 @@
 
 🔭 Criando um projeto de banco de dados de uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
 
-Acompanhe a evolução do projeto:  
-
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/GabrielSQL2022/projeto-livraria)
+Acompanhe a evolução do projeto:   [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
 
 📖 Cursando Pós-Graduação em Administração de Banco de Dados e Graduado em Gestão de Tecnologia da Informação.
 
