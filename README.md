@@ -4,7 +4,11 @@
 
 🔭 Criando um projeto de banco de dados de uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
 
-Acompanhe a evolução do projeto:   [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
+Acompanhe a evolução do projeto: [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
+
+🔭 Também me aprofundando na criação de Dashboards com Power BI e os estudos de caso podem ser vistos neste repositório: 
+
+[Projetos Power BI](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
 
 📖 Cursando Pós-Graduação em Administração de Banco de Dados e Graduado em Gestão de Tecnologia da Informação.
 
@@ -16,7 +20,7 @@ Acompanhe a evolução do projeto:   [Projeto Livraria](https://github.com/Gabri
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
+<img src ="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 
 🌱 Todos os meus artigos do Linkedin estão disponíveis logo abaixo:
 
@@ -34,6 +38,7 @@ E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
 - [Funções de Datas - Oracle PL/SQL](https://www.linkedin.com/posts/gabriel-l-a-neiva_fun%C3%A7%C3%B5es-de-data-plsql-gabriel-leite-activity-6963092579252908032-zORc?utm_source=linkedin_share&utm_medium=android_app)
  - [O que é View e como criá-la](https://www.linkedin.com/posts/gabriel-l-a-neiva_o-que-%C3%A9-uma-view-e-como-cri%C3%A1-la-activity-6974048621788827648-Lz9e?utm_source=share&utm_medium=member_desktop)
+ - [O que é uma Subquery - Temática FIFA World CUP 2022](https://www.linkedin.com/posts/gabriel-l-a-neiva_qatar-sql-subquery-activity-6983567598210691072-l3Mq?utm_source=share&utm_medium=member_desktop)
 
 📧 Meus contatos
 
