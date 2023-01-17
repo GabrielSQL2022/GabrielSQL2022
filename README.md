@@ -10,7 +10,7 @@ Veja o projeto completo e detalhado: [Universo dos Livros](https://github.com/Ga
 
 No momento criando um Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando T-SQL da Microsoft.
 
-Acompanhe: [Hogwarts]()
+Acompanhe: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
 
 🔭 Também me aprofundando na criação de Dashboards com Power BI e os estudos de caso podem ser vistos neste repositório: 
 
