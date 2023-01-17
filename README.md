@@ -1,10 +1,16 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
  
-🧑‍💻 Estudando e me aprofundando em SQL, NoSQL, ETL, Power BI e Python.
+🧑‍💻 Estudando e me aprofundando em SQL e NoSQL focado em Administração de Banco de Dados.
 
-🔭 Criando um projeto de banco de dados de uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
+🔭 Criando alguns projetos de Banco de Dados.
 
-Acompanhe a evolução do projeto: [Projeto Livraria](https://github.com/GabrielSQL2022/projeto-livraria)
+O primeiro foi usando PL/SQL da Oracle e baseado em uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
+
+Veja o projeto completo e detalhado: [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
+
+No momento criando um Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando T-SQL da Microsoft.
+
+Acompanhe: [Hogwarts]()
 
 🔭 Também me aprofundando na criação de Dashboards com Power BI e os estudos de caso podem ser vistos neste repositório: 
 
