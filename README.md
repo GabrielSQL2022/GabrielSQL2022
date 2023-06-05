@@ -8,7 +8,7 @@ O primeiro foi usando PL/SQL da Oracle e baseado em uma livraria, passando pela 
 
 Veja o projeto completo e detalhado: [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
 
-No momento criando um Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando T-SQL da Microsoft.
+No momento criando um projeto de Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando a linguagem T-SQL da Microsoft SQL Server.
 
 Acompanhe: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
 
@@ -16,7 +16,7 @@ Acompanhe: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
 
 [Projetos Power BI](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
 
-📖 Cursando Pós-Graduação em Administração de Banco de Dados e Graduado em Gestão de Tecnologia da Informação.
+📖 Graduado em Gestão de Tecnologia da Informação e Pós-Graduação em Administração de Banco de Dados
 
 💼 Analista de Suporte II na TOTVS
 
