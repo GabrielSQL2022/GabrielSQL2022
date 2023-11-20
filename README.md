@@ -1,24 +1,24 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
  
-🧑‍💻 Estudando e me aprofundando em SQL e NoSQL focado em Administração de Banco de Dados.
+🧑‍💻 No momento venho estudando e me aprofundando nas linguagens de banco de dados relacional T-SQL e PL/SQL, para SQL Server e Oracle, respectivamente, focado em Administração de Banco de Dados;
 
-🔭 Criando alguns projetos de Banco de Dados.
+🔭 Criando alguns projetos de Banco de Dados Relacional;
 
-O primeiro foi usando PL/SQL da Oracle e baseado em uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
+O primeiro foi usando PL/SQL e baseado em uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
 
 Veja o projeto completo e detalhado: [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
 
-No momento criando um projeto de Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando a linguagem T-SQL da Microsoft SQL Server.
+O segundo projeto, ainda em andamento, é um Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando a linguagem T-SQL da Microsoft SQL Server.
 
-Acompanhe: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
+Acompanhe o andamento: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
 
-🔭 Também me aprofundando na criação de Dashboards com Power BI e os estudos de caso podem ser vistos neste repositório: 
+🔭 Venho também me aprofundando nos conceitos de análise de dados e a importância de transformar dados em insights, gerando valor e informações importante com dashboards.
 
-[Projetos Power BI](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
+O primeiro dashboard que criei no Power BI foi sobre vendas de automóveis e pode ser conferido ai: [Projeto Power BI - Venda de Automóveis](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
 
-📖 Graduado em Gestão de Tecnologia da Informação e Pós-Graduação em Administração de Banco de Dados
+📖 Sou Graduado em Gestão de Tecnologia da Informação e Pós-Graduação em Administração de Banco de Dados;
 
-💼 Analista de Suporte II na TOTVS
+💼 Atualmente exerço a função de Analista de Suporte II na TOTVS;
 
 🎯 Minhas Skills
 
@@ -39,6 +39,7 @@ Acompanhe: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
  - [Como utilizar os Operadores LIKE e NOT LIKE](https://www.linkedin.com/pulse/como-utilizar-os-operadores-like-e-descomplica-leite-angelo-neiva)
  - [O que é Chave Primária, Chave Estrangeira e como utilizar JOIN e suas variações](https://www.linkedin.com/pulse/o-que-%C3%A9-chave-prim%C3%A1ria-estrangeira-e-como-utilizar-gabriel)
  - [Privilégios de Usuários em Banco de Dados Oracle](https://www.linkedin.com/pulse/privil%25C3%25A9gios-de-usu%25C3%25A1rios-em-banco-dados-oracle-leite-angelo-neiva/?published=t&trackingId=m1myK2EOS%2Fis%2BzKHi7cOFw%3D%3D)
+ - [Instrução Merge em Banco de Dados Oracle](https://www.linkedin.com/pulse/instru%C3%A7%C3%A3o-merge-em-banco-de-dados-oracle-gabriel-leite-angelo-neiva-bijie/)
 
 E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 
@@ -49,5 +50,4 @@ E aqui estão os documentos com dicas, também disponíveis no Linkedin:
 📧 Meus contatos
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-l-a-neiva/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabrielneiva26/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:gabrielleite.26@gmail.com)
