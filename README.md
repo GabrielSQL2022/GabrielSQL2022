@@ -1,20 +1,13 @@
 <h3 align="center">Olá, me chamo Gabriel, seja bem vindo(a) ao meu Github!</h3>
  
-🧑‍💻 No momento venho estudando e me aprofundando nas linguagens de banco de dados relacional T-SQL e PL/SQL, para SQL Server e Oracle, respectivamente, focado em Administração de Banco de Dados;
+🧑‍💻 Nos últimos anos me aprofundei nas linguagens de banco de dados T-SQL e PL/SQL realizando alguns cursos, Pós-Graduação e documentando em artigos no Linkedin e um projeto aqui no GitHub.
 
-🔭 Criando alguns projetos de Banco de Dados Relacional;
+Este é o projeto baseado em uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico: [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
 
-O primeiro foi usando PL/SQL e baseado em uma livraria, passando pela Análise de Requisitos, Modelos Conceitual, Lógico e Físico.
+Também estudei um pouco de Power BI e documentei neste pequeno projeto: [Projeto Power BI - Venda de Automóveis](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
 
-Veja o projeto completo e detalhado: [Universo dos Livros](https://github.com/GabrielSQL2022/projeto-livraria)
-
-O segundo projeto, ainda em andamento, é um Banco de Dados de Hogwarts, voltado ao universo de Harry Potter, usando a linguagem T-SQL da Microsoft SQL Server.
-
-Acompanhe o andamento: [Hogwarts](https://github.com/GabrielSQL2022/projeto_hogwarts_tsql)
-
-🔭 Venho também me aprofundando nos conceitos de análise de dados e a importância de transformar dados em insights, gerando valor e informações importante com dashboards.
-
-O primeiro dashboard que criei no Power BI foi sobre vendas de automóveis e pode ser conferido ai: [Projeto Power BI - Venda de Automóveis](https://github.com/GabrielSQL2022/FirstProj_PowerBI)
+Atualmente venho estudando gestão de processos alinhado com inteligência artificial para incorporar meu conhecimento em banco de dados e anpalise de dados para gerar processos que otimizem equipes de diferentes segmentos.
+Acredito que processos bem desenhados, com ajuda de inteligencia artificial e análise de dados para geração de insights e acompanhamento das evoluções através de métricas ajudam a otimização das equipes.
 
 📖 Sou Graduado em Gestão de Tecnologia da Informação e Pós-Graduação em Administração de Banco de Dados;
 
